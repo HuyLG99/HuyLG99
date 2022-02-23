@@ -1,0 +1,21 @@
+### Hi there 👋
+
+I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wondering and curiosity.
+
+- 🔥 **Nextword** [Apple](https://apps.apple.com/vn/app/nextword/id1586762180)/[Android](https://play.google.com/store/apps/details?id=com.nextword.nextword)/[PWA-alpha](http://nextword-me-with-my-friends.web.app) build with **`Flutter`** with my colleagues.
+- 📹 I'm also learning video editing skill aka 'AE, AI, Camtasia,...'
+- 👨🏻‍💻 I’m looking to collaborate on open source projects
+- 
+- 👽 Certifications&honour are located at [here]()
+
+<div>
+    I'm best reached via <a href="mailto:legiahuy.dev@gmail.com"/>email</a>. I'm always open to interesting conversations and collaboration.
+</div>
+ 
+
+
+### Github Stats
+
+[![legiahuy Github Stats](https://github-readme-stats.vercel.app/api?username=huylg99&count_private=true&theme=default&show_icons=true)](https://github.com/HuyLG99)
+
+----
