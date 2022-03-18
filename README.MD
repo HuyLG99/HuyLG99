@@ -6,10 +6,10 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 - 📹 I'm also learning video editing skill aka 'AE, AI, Camtasia,...'
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
 - 🥇 Certifications&honour are located at [here](https://github.com/HuyLG99/LeGiaHuy/tree/master/Certificate)
-- 🎯 My Profile at [here](https://github.com/HuyLG99/HuyLG99/blob/master/LeGiaHuy_CV.pdf)
+- 🎯 My Profile CV at [here](https://github.com/HuyLG99/HuyLG99/blob/master/LeGiaHuy_CV.pdf)
 
 <div>
-    I'm best reached via <a href="mailto:legiahuy.dev@gmail.com"/>email</a>. I'm always open to interesting conversations and collaboration.
+    I'm best reached via <a href="mailto:legiahuy.dev@gmail.com"/>lehuy154@gmail.com</a>. I'm always open to interesting conversations and collaboration.
 </div>
  
 
