@@ -16,7 +16,7 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 
 ### Github Stats
 
-[![legiahuy Github Stats](https://github-readme-stats.vercel.app/api?username=huylg99&count_private=true&theme=default&show_icons=true)](https://github.com/HuyLG99)
+[![legiahuy Github Stats](https://github-readme-stats.vercel.app/api?username=huylg99&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/HuyLG99)
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huylg99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ----
