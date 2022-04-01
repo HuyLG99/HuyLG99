@@ -20,12 +20,8 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 ### Github Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Huylg99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lê Gia Huy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huylg99&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Huylg99&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Lê Gia Huy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huylg99&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-[![legiahuy Github Stats](https://github-readme-stats.vercel.app/api?username=huylg99&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/HuyLG99)
 
-### Github Language 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huylg99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
