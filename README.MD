@@ -22,7 +22,7 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 
 ### Github Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Huylg99&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Lê Gia Huy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huylg99&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Huylg99&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Lê Gia Huy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyLG99&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
