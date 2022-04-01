@@ -20,5 +20,5 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huylg99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huylg99&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huylg99&repo=https://github.com/HuyLG99/lovebird.git)](https://github.com/anuraghazra/github-readme-stats)
 ----
